@@ -1,0 +1,8 @@
+prefix=/home/sunraj/catkin_ws/devel
+
+Name: drone_pid_controller
+Description: Description of drone_pid_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
